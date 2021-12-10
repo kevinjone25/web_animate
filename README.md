@@ -1,5 +1,5 @@
 # web_animate
-pure html+css animate!!!
+Pure HTML + CSS animate!!!
 
 ![image](https://user-images.githubusercontent.com/64208218/144716203-edad9fd1-b15f-4f63-8e59-0ec238ff0879.png )
 
